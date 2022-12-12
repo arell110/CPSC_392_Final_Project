@@ -14,7 +14,7 @@ Since we will be using a lot of categorical variables on what it takes to land a
 
 ### What are the type of candidates landing the highest paid entry level jobs?
 
-### 
+### What did college  
 
 
 ## Data Cleanup
