@@ -14,12 +14,11 @@ We are going to use linear regression to determine those with the highest paying
 #### 3) Is there a relation between age and wage?
 After plotting the relationship between 'Age' and 'SalaryCompensation', I determined to use Gaussian Mixture as the clustering method since there is no clear seperation in which other models such as DBSCAN would struggle to differentiate. 
 
-### Data Cleanup
----
-
 ### Results
 ---
 
 ### Sources
 ---
+- [Kaggle Submission]("https://www.kaggle.com/code/smcnish71/what-should-job-seekers-do-to-get-a-job/report") by Shannon: For the dataset and a reference on how to have a similar theme
+- [plotnine documentation]("https://plotnine.readthedocs.io/en/stable/"): On how to manipulate and enhance ggplot
 
