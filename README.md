@@ -17,7 +17,7 @@ After plotting the relationship between 'Age' and 'SalaryCompensation', I determ
 ### Results
 ---
 Despite our logistic regression model having a high accuracy rate, it is skewed since the majority of the responses are from people who are employed. We do not have sufficient data to characterize what could possible be an unemployed person.
-[Number of Employed/Un-Employed](raw.githubusercontent.com/arell110/CPSC_392_Final_Project/tree/main/graphs_images/employment_status.png)
+[Number of Employed/Un-Employed](raw.githubusercontent.com/arell110/CPSC_392_Final_Project/tree/master/graphs_images/employment_status.png)
 
 Our Logistic and Lasso model performed similar with a MAE at around 0.19. Although we are going to use the Ridge Model as reference since the MAE was slightly better at 0.14. Per our results we can infer that having a higher education (bachelors, masters, PhD) has the most impact along with looking for a job online through a job board (indeed, glassdoor, linkedin, etc.) The factors that played the least were gender and age
 
